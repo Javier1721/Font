@@ -1,0 +1,41 @@
+/* 
+font-family: 'Kaushan Script', cursive;
+font-family: 'Righteous', cursive;
+font-family: 'Yellowtail', cursive;
+*/
+
+
+
+body{
+    font-family: 'Righteous', cursive;
+}
+
+h1{
+    font-family: 'Yellowtail', cursive;
+    font-size: 75px;
+    color: darkorange;
+}
+h2{ 
+    font-family: 'Righteous', cursive;
+    font-size: 15px;
+    color: darkorange;
+}
+h3{ 
+    font-family: 'Righteous', cursive;
+    font-size: 25px;
+   
+}
+h4{ 
+    font-family: 'Righteous', cursive;
+    font-size: 15px;
+  
+}
+p{
+    font-family: 'Righteous', cursive;
+    font-size: 30px;   
+}
+p1{
+    font-family: 'Yellowtail', cursive;
+    font-size: 45px;
+    color: darkorange;
+}
